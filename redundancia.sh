@@ -6,7 +6,7 @@
 #
 # O script deve ficar com permissao de execucao e setado no CRON para rodar sempre
 #
-#date: 29/04/2015
+#date: 02/04/2019
 #@by Ricardo Vieira de Souza
 
 export LC_ALL=C
