@@ -1,0 +1,2 @@
+# Shell_Script_Para_Redundancia_de_links
+# Script para fazer redundancia entre links de internet # Neste script existem algumas formas diferentes de fazer o balanceamento, basicamente usando as funcoes : # - testPrimaryGw e testOnlyIf # # O script deve ficar com permissao de execucao e setado no CRON para rodar sempre # #date: 02/04/2019 #Autor Ricardo Vieira de Souza #E-mail ricardo@servidorcasa.com.br
